@@ -31,7 +31,7 @@ An Ethereum based distributed ledger to register, track, and query property uniq
 
 5. You will need a web browser that supports web3 or a plugin for Chrome like [MetaMask](https://metamask.io/) to be able to interact with the application.
 
-**NOTE**: This box is not a complete dapp, but the starting point for a solution to the property unique identifier project.
+**NOTE**: This repo is not a complete dapp, but the starting point for a solution to the property unique identifier project.
 
 
 
