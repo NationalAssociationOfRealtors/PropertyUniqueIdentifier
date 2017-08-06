@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "address": "123 Main Street",
+    "picture": "images/condo.jpg",
+    "age": 1993,
+    "propertytype": "Condo",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "address": "43 Maple Rd",
+    "picture": "images/condo.jpg",
+    "age": 1993,
+    "propertytype": "Condo",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "address": "49 Elm St",
+    "picture": "images/factory.jpg",
+    "age": 1992,
+    "propertytype": "Factory",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "address": "430 North Michigan",
+    "picture": "images/singlefamily.jpg",
+    "age": 1992,
+    "propertytype": "Single Family",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "address": "21 Campbell St",
+    "picture": "images/factory.jpg",
+    "age": 1992,
+    "propertytype": "Factory",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "address": "34 Medford",
+    "picture": "images/factory.jpg",
+    "age": 1993,
+    "propertytype": "Factory",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "address": "45 Lakeview",
+    "picture": "images/manufactured.jpg",
+    "age": 1963,
+    "propertytype": "Manufactured",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "address": "43 Division St",
+    "picture": "images/manufactured.jpg",
+    "age": 2043,
+    "propertytype": "Manufactured",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "address": "88 Conroy Ave",
+    "picture": "images/factory.jpg",
+    "age": 2011,
+    "propertytype": "Factory",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "address": "10 Walnut St",
+    "picture": "images/singlefamily.jpg",
+    "age": 1945,
+    "propertytype": "Single Family",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "address": "18 Sullivan Rd",
+    "picture": "images/singlefamily.jpg",
+    "age": 1992,
+    "propertytype": "Single Family",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "address": "34 Cote Avenue",
+    "picture": "images/condo.jpg",
+    "age": 1993,
+    "propertytype": "Manufactured",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "address": "1352 Ciskey St",
+    "picture": "images/factory.jpg",
+    "age": 1993,
+    "propertytype": "Factory",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "address": "44 Lessing Avenue",
+    "picture": "images/manufactured.jpg",
+    "age": 1994,
+    "propertytype": "Manufactured",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "address": "989 Curry Hwy",
+    "picture": "images/manufactured.jpg",
+    "age": 1992,
+    "propertytype": "Manufactured",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "address": "95 Paulina Ave",
+    "picture": "images/manufactured.jpg",
+    "age": 1992,
+    "propertytype": "Manufactured",
+    "location": "Dawn, Wisconsin"
+  }
+]
